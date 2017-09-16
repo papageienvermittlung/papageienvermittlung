@@ -1,3 +1,0 @@
-# papageienvermittlung.github.io
-
-test
